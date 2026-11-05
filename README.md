@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on: Web development projects using HTML, CSS, JavaScript, and React.<br><br>👯 I’m looking to collaborate on: Open-source projects and innovative web applications.<br><br>🤝 I’m looking for help with: Improving backend development and system design skills.<br><br>🌱 I’m currently learning: Advanced JavaScript, Node.js, and modern frontend frameworks.<br><br>💬 Ask me about: Web development, coding basics, and building responsive websites.<br><br>⚡ Fun fact: I enjoy turning ideas into real projects and constantly learning new technologies.
+# 👋 Hi, I'm Piyush Pandey
+
+### 🚀 Aspiring AI/ML & Cloud Engineer | CSE (Artificial Intelligence)
+
+🎓 I'm a Computer Science Engineering student specializing in Artificial Intelligence, passionate about building intelligent applications and scalable cloud-based systems.
+
+- 🔭 **Currently working on:** AI-powered applications, Network Intrusion Detection Systems, and Cloud-Native projects.
+- ☁️ **Career Interests:** Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, and MLOps.
+- 🛠️ **Hands-on Experience:** AWS, Docker, Kubernetes, Terraform, Python, Java, and backend development.
+- 🌱 **Currently Learning:** Advanced Deep Learning, Transformer Architectures, Kubernetes, AWS Infrastructure, and CI/CD automation.
+- 🤝 **Looking to collaborate on:** AI/ML research, open-source projects, cloud infrastructure, and automation solutions.
+- 💬 **Ask me about:** Python, Java, Machine Learning, AWS, Docker, Kubernetes, and PostgreSQL.
+- 🎯 **Career Goal:** To engineer intelligent, secure, and scalable systems by combining AI with modern cloud technologies.
+- ⚡ **Fun Fact:** I enjoy turning complex technical concepts into practical projects and continuously exploring emerging technologies.
+
+.
 
 
 ## 🌐 Socials:
